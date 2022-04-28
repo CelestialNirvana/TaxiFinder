@@ -1,0 +1,1 @@
+INSERT INTO taxi (Number, ServiceNumber, Date, OffService) VALUES (130,"b-145-a6","25/6/2018",51);
